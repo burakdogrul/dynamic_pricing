@@ -18,7 +18,7 @@ As a result of the study, the price of the products, which are divided into grou
 
 
 
-## **Data Set Information:*
+## *Data Set Information:*
 
 *Private dataset*
 
